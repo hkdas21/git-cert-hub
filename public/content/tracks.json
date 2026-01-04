@@ -1,0 +1,22 @@
+[
+  {
+    "id": "foundations",
+    "title": "GitHub Foundations",
+    "description": "Master the fundamentals of Git, GitHub, and collaborative development workflows. Perfect for beginners starting their GitHub journey."
+  },
+  {
+    "id": "actions",
+    "title": "GitHub Actions",
+    "description": "Learn to automate your workflow with CI/CD pipelines and GitHub Actions. Build, test, and deploy your code automatically."
+  },
+  {
+    "id": "security",
+    "title": "GitHub Advanced Security",
+    "description": "Discover security best practices and tools to keep your code safe. Learn about vulnerability scanning, secret detection, and more."
+  },
+  {
+    "id": "admin",
+    "title": "GitHub Administration",
+    "description": "Gain expertise in managing GitHub Enterprise and organization settings. Learn to configure, maintain, and optimize your GitHub environment."
+  }
+]
